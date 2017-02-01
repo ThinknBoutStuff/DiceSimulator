@@ -23,10 +23,10 @@ Roll 2: 7
 Roll 3: 2
 ```
 I would enter "1,3" to get new results for "Roll 1" and Roll 3."
-The new list of results will label the previous results:
+The new list of results will label the previous results "unrolled" to distinguish from the rerolled dice:
 ```
 Roll 1: 8
-Roll 2: 7 (last result)
+Roll 2: 7 (unrolled)
 Roll 3: 3
 ```
 
